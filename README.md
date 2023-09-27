@@ -2,7 +2,9 @@
 Very easy and simple dnd based on react-beautiful-dnd
 
 ## Compare with react-beautiful-dnd
-Compared to react-beautiful-dnd, <b>using react-beautiful-simple-dnd results in much cleaner code.</b>
+Compared to react-beautiful-dnd, <b>using react-beautiful-simple-dnd results in much cleaner code.</b><br/>
+In addition, <b>basic reordering logic is included.</b><br/>
+Of course, if you want to change the reordering logic, you can pass a new reordering function to ```handleReorder``` props.
 ### react-beautiful-dnd (Javascript)
 ```jsx
 import { useState } from 'react';
