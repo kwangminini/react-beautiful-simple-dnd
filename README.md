@@ -93,3 +93,6 @@ function App() {
   );
 }
 ```
+
+## Contributing
+Contributions are welcome! Please upload the PR along with the issue
